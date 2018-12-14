@@ -1,5 +1,5 @@
 _repo: The-South-Devon-Coast_58456
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator: &id001
     agent_name: Harper, Charles G. (Charles George)
@@ -8,9 +8,14 @@ contributor:
     deathdate: 1943
     gutenberg_agent_id: '39133'
     url: http://www.gutenberg.org/2009/agents/39133
+covers:
+- cover_type: archival
+  image_path: 58456-h/images/cover.jpg
 creator:
   author: *id001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58456#The-South-Devon-Coast
 gutenberg_issued: '2018-12-12'
 gutenberg_type: Text
 identifiers:
